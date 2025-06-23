@@ -11,3 +11,7 @@ Someone once told me the following quote:
 <ins>This will be underlined</ins>
 
 This will have a ~~strikethrough~~ 
+
+This is a random picture I pulled from my file 
+
+![This is a random picture from my filet](Screenshot_20180213-080601.png)
